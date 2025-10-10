@@ -4,7 +4,7 @@ A 90-days cybersecurity challenge documenting my journey from fundamentals to be
 
 # 📅 Daily Breakdown
 
-Day 1 — Virtualization Setup**  
+Day 1 — Virtualization Setup 
 Installed VirtualBox and Kali Linux VM. Took an initial snapshot for system backup.
 
 Day 2 — File Navigation
@@ -53,7 +53,7 @@ VirtualBox→ For creating and running the Kali Linux virtual environment
 - VirtualBox setup errors during initial configuration  
 - Occasional command typos and syntax errors that caused task delays  
 
-# 🎯Goals for Next Week**
+# 🎯Goals for Next Week
 - Begin Week 2: Networking Essentials
 - Learn basic Bash scripting concepts  
 - Understand IP addressing, ping, netstat, and traceroute 
