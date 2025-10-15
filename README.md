@@ -22,6 +22,9 @@ Studied commands such as `ps`, `top`, and `kill` for handling processes.
 # 📆 Day 6 — SSH Practice
 Completed OverTheWire Bandit Levels 0–5 to strengthen command-line and SSH skills.
 
+#📅 Day 7: Documentation
+Documented everything I learned and created this GitHub repo.
+
  # 🧰Tools Used
 VirtualBox→ For creating and running the Kali Linux virtual environment  
 -Kali Linux→ Main operating system for hands-on learning  
